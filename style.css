@@ -32,7 +32,7 @@ ul{display: none;}
 @media screen and (min-width: 401px) and (max-width: 1000px) {
     ul{display: none;}
     .bgHeader{background-image: url("img/bg_footer.jpg");}
-    h1{display: none;}
+    
 
  
 
